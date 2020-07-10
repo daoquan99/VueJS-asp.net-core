@@ -1,0 +1,116 @@
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.exe
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.deps.json
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.runtimeconfig.json
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.runtimeconfig.dev.json
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.pdb
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.csprojAssemblyReference.cache
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.AssemblyInfoInputs.cache
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.AssemblyInfo.cs
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.RazorTargetAssemblyInfo.cache
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Dotnet-WebAPI.StaticWebAssets.Manifest.cache
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Dotnet-WebAPI.StaticWebAssets.xml
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.pdb
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.genruntimeconfig.cache
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.csproj.CopyComplete
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.csproj.CoreCompileInputs.cache
+G:\Vue\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.exe
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.deps.json
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.runtimeconfig.json
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.runtimeconfig.dev.json
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Dotnet-WebAPI.pdb
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.csprojAssemblyReference.cache
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.AssemblyInfoInputs.cache
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.AssemblyInfo.cs
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.RazorTargetAssemblyInfo.cache
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.csproj.CopyComplete
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Dotnet-WebAPI.StaticWebAssets.Manifest.cache
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Dotnet-WebAPI.StaticWebAssets.xml
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.dll
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.pdb
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.genruntimeconfig.cache
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.csproj.CoreCompileInputs.cache
+G:\Hoc VueJS\Dotnet-WebAPI\Dotnet-WebAPI\obj\Debug\netcoreapp3.1\Dotnet-WebAPI.MvcApplicationPartsAssemblyInfo.cache
